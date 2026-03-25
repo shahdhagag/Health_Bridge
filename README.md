@@ -156,5 +156,3 @@ The **Health & Doctor Appointment App** delivers a complete digital healthcare e
 ---
 
 
-If you want next step 🔥
-I can turn this into a **top-tier portfolio project README (with badges, animations, and pro styling)** that stands out to recruiters.
