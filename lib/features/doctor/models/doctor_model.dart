@@ -1,0 +1,3 @@
+// Moved to features/doctor/models/doctor_model.dart as part of feature-based organization.
+// Please update your imports to use:
+// import 'features/doctor/models/doctor_model.dart';

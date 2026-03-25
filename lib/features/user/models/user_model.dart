@@ -1,0 +1,3 @@
+// Moved to features/user/models/user_model.dart as part of feature-based organization.
+// Please update your imports to use:
+// import 'features/user/models/user_model.dart';

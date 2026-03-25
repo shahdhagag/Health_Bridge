@@ -1,0 +1,3 @@
+// Moved to features/appointment/models/appointment_model.dart as part of feature-based organization.
+// Please update your imports to use:
+// import 'features/appointment/models/appointment_model.dart';

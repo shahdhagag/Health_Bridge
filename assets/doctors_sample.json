@@ -1,0 +1,223 @@
+[
+  {
+    "name": "Dr. Alice Smith",
+    "image": "https://randomuser.me/api/portraits/women/1.jpg",
+    "type": "Cardiologist",
+    "rating": 5,
+    "specification": "Expert in heart diseases and treatments.",
+    "address": "123 Heart Ave, MedCity",
+    "phone": "1234567890",
+    "openHour": "09:00",
+    "closeHour": "17:00"
+  },
+  {
+    "name": "Dr. Bob Johnson",
+    "image": "https://randomuser.me/api/portraits/men/2.jpg",
+    "type": "Dermatologist",
+    "rating": 4,
+    "specification": "Specialist in skin conditions and cosmetic procedures.",
+    "address": "456 Skin St, MedCity",
+    "phone": "2345678901",
+    "openHour": "10:00",
+    "closeHour": "18:00"
+  },
+  {
+    "name": "Dr. Carol Lee",
+    "image": "https://randomuser.me/api/portraits/women/3.jpg",
+    "type": "Pediatrician",
+    "rating": 5,
+    "specification": "Child health and wellness expert.",
+    "address": "789 Kids Rd, MedCity",
+    "phone": "3456789012",
+    "openHour": "08:00",
+    "closeHour": "16:00"
+  },
+  {
+    "name": "Dr. David Kim",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg",
+    "type": "Orthopedic Surgeon",
+    "rating": 4,
+    "specification": "Bone and joint surgery specialist.",
+    "address": "321 Bone Blvd, MedCity",
+    "phone": "4567890123",
+    "openHour": "09:30",
+    "closeHour": "17:30"
+  },
+  {
+    "name": "Dr. Eva Brown",
+    "image": "https://randomuser.me/api/portraits/women/5.jpg",
+    "type": "Neurologist",
+    "rating": 5,
+    "specification": "Brain and nervous system disorders.",
+    "address": "654 Brain Ln, MedCity",
+    "phone": "5678901234",
+    "openHour": "10:00",
+    "closeHour": "18:00"
+  },
+  {
+    "name": "Dr. Frank Green",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg",
+    "type": "General Practitioner",
+    "rating": 3,
+    "specification": "Primary care and general health.",
+    "address": "987 Health St, MedCity",
+    "phone": "6789012345",
+    "openHour": "08:30",
+    "closeHour": "16:30"
+  },
+  {
+    "name": "Dr. Grace White",
+    "image": "https://randomuser.me/api/portraits/women/7.jpg",
+    "type": "Gynecologist",
+    "rating": 4,
+    "specification": "Women's health and pregnancy care.",
+    "address": "159 Women Ave, MedCity",
+    "phone": "7890123456",
+    "openHour": "09:00",
+    "closeHour": "17:00"
+  },
+  {
+    "name": "Dr. Henry Black",
+    "image": "https://randomuser.me/api/portraits/men/8.jpg",
+    "type": "Ophthalmologist",
+    "rating": 5,
+    "specification": "Eye care and vision correction.",
+    "address": "753 Eye St, MedCity",
+    "phone": "8901234567",
+    "openHour": "10:00",
+    "closeHour": "18:00"
+  },
+  {
+    "name": "Dr. Irene King",
+    "image": "https://randomuser.me/api/portraits/women/9.jpg",
+    "type": "Dentist",
+    "rating": 4,
+    "specification": "Dental care and oral surgery.",
+    "address": "852 Tooth Rd, MedCity",
+    "phone": "9012345678",
+    "openHour": "08:00",
+    "closeHour": "16:00"
+  },
+  {
+    "name": "Dr. Jack Young",
+    "image": "https://randomuser.me/api/portraits/men/10.jpg",
+    "type": "ENT Specialist",
+    "rating": 3,
+    "specification": "Ear, nose, and throat disorders.",
+    "address": "951 ENT Ave, MedCity",
+    "phone": "1230984567",
+    "openHour": "09:00",
+    "closeHour": "17:00"
+  },
+  {
+    "name": "Dr. Karen Scott",
+    "image": "https://randomuser.me/api/portraits/women/11.jpg",
+    "type": "Psychiatrist",
+    "rating": 5,
+    "specification": "Mental health and counseling.",
+    "address": "357 Mind St, MedCity",
+    "phone": "2341098765",
+    "openHour": "10:00",
+    "closeHour": "18:00"
+  },
+  {
+    "name": "Dr. Leo Adams",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg",
+    "type": "Urologist",
+    "rating": 4,
+    "specification": "Urinary tract and male health.",
+    "address": "258 Uro Rd, MedCity",
+    "phone": "3452109876",
+    "openHour": "08:30",
+    "closeHour": "16:30"
+  },
+  {
+    "name": "Dr. Mia Clark",
+    "image": "https://randomuser.me/api/portraits/women/13.jpg",
+    "type": "Oncologist",
+    "rating": 5,
+    "specification": "Cancer diagnosis and treatment.",
+    "address": "654 Cancer Ave, MedCity",
+    "phone": "4563210987",
+    "openHour": "09:00",
+    "closeHour": "17:00"
+  },
+  {
+    "name": "Dr. Nick Evans",
+    "image": "https://randomuser.me/api/portraits/men/14.jpg",
+    "type": "Pulmonologist",
+    "rating": 4,
+    "specification": "Lung and respiratory care.",
+    "address": "753 Lung St, MedCity",
+    "phone": "5674321098",
+    "openHour": "10:00",
+    "closeHour": "18:00"
+  },
+  {
+    "name": "Dr. Olivia Harris",
+    "image": "https://randomuser.me/api/portraits/women/15.jpg",
+    "type": "Endocrinologist",
+    "rating": 5,
+    "specification": "Hormone and metabolism specialist.",
+    "address": "852 Endo Rd, MedCity",
+    "phone": "6785432109",
+    "openHour": "08:00",
+    "closeHour": "16:00"
+  },
+  {
+    "name": "Dr. Paul Turner",
+    "image": "https://randomuser.me/api/portraits/men/16.jpg",
+    "type": "Gastroenterologist",
+    "rating": 3,
+    "specification": "Digestive system disorders.",
+    "address": "951 Gastro Ave, MedCity",
+    "phone": "7896543210",
+    "openHour": "09:00",
+    "closeHour": "17:00"
+  },
+  {
+    "name": "Dr. Quinn Walker",
+    "image": "https://randomuser.me/api/portraits/men/17.jpg",
+    "type": "Nephrologist",
+    "rating": 4,
+    "specification": "Kidney care and dialysis.",
+    "address": "159 Kidney St, MedCity",
+    "phone": "8907654321",
+    "openHour": "10:00",
+    "closeHour": "18:00"
+  },
+  {
+    "name": "Dr. Rose Martinez",
+    "image": "https://randomuser.me/api/portraits/women/18.jpg",
+    "type": "Rheumatologist",
+    "rating": 5,
+    "specification": "Arthritis and autoimmune diseases.",
+    "address": "357 Joint Ave, MedCity",
+    "phone": "9018765432",
+    "openHour": "08:30",
+    "closeHour": "16:30"
+  },
+  {
+    "name": "Dr. Steve Lewis",
+    "image": "https://randomuser.me/api/portraits/men/19.jpg",
+    "type": "Immunologist",
+    "rating": 4,
+    "specification": "Immune system disorders.",
+    "address": "258 Immune Rd, MedCity",
+    "phone": "1239876543",
+    "openHour": "09:00",
+    "closeHour": "17:00"
+  },
+  {
+    "name": "Dr. Tina Perez",
+    "image": "https://randomuser.me/api/portraits/women/20.jpg",
+    "type": "Hematologist",
+    "rating": 5,
+    "specification": "Blood diseases and treatments.",
+    "address": "654 Blood St, MedCity",
+    "phone": "2341987654",
+    "openHour": "10:00",
+    "closeHour": "18:00"
+  }
+]
+
